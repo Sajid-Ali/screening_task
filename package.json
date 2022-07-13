@@ -1,5 +1,5 @@
 {
-  "name": "plusone_server",
+  "name": "server",
   "version": "1.0.0",
   "description": "Basic Node API for English correction",
   "main": "server.js",
