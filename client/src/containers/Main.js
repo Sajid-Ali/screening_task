@@ -1,7 +1,6 @@
 import axios from "axios";
 import { useState, useEffect } from "react";
-import { Button } from "antd";
-import { Input, Label } from "reactstrap";
+import { Label } from "reactstrap";
 
 import "../App.css";
 import Textarea from "../components/Textarea";
